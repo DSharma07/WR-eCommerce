@@ -1,0 +1,9 @@
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Entities\bin\Debug\netstandard2.0\FunBooksAndVideos.Entities.deps.json
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Entities\bin\Debug\netstandard2.0\FunBooksAndVideos.Entities.dll
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Entities\bin\Debug\netstandard2.0\FunBooksAndVideos.Entities.pdb
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Entities\obj\Debug\netstandard2.0\FunBooksAndVideos.Entities.csprojResolveAssemblyReference.cache
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Entities\obj\Debug\netstandard2.0\FunBooksAndVideos.Entities.csproj.CoreCompileInputs.cache
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Entities\obj\Debug\netstandard2.0\FunBooksAndVideos.Entities.AssemblyInfoInputs.cache
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Entities\obj\Debug\netstandard2.0\FunBooksAndVideos.Entities.AssemblyInfo.cs
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Entities\obj\Debug\netstandard2.0\FunBooksAndVideos.Entities.dll
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.Entities\obj\Debug\netstandard2.0\FunBooksAndVideos.Entities.pdb

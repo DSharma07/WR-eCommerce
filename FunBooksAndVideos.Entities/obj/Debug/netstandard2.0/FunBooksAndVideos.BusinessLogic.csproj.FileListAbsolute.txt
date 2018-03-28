@@ -1,0 +1,12 @@
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\bin\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.deps.json
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\bin\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.dll
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\bin\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.pdb
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\bin\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.dll
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\bin\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.pdb
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\obj\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\obj\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\obj\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\obj\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.AssemblyInfo.cs
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\obj\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.csproj.CopyComplete
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\obj\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.dll
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.BusinessLogic\obj\Debug\netstandard2.0\FunBooksAndVideos.BusinessLogic.pdb

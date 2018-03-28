@@ -1,0 +1,8 @@
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.DataAccess\bin\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.deps.json
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.DataAccess\bin\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.dll
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.DataAccess\bin\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.pdb
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.DataAccess\obj\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.DataAccess\obj\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.DataAccess\obj\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.AssemblyInfo.cs
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.DataAccess\obj\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.dll
+C:\Users\dheeraj.m.sharma\Downloads\FunBooksAndVideos-master\FunBooksAndVideos-master\FunBooksAndVideos.DataAccess\obj\Debug\netstandard2.0\FunBooksAndVideos.DataAccess.pdb
